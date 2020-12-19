@@ -85,4 +85,4 @@ class CreateNewsView(LoginRequiredMixin, CreateView):
         return super().form_valid(form)
 
 def contacti(request):
-    return render(request, 'blog/contacti.html', {'title':'Страничка про нас'})
+    return render(request, 'blog/contacti.html', {'title':'Страничка про нас'}) 
