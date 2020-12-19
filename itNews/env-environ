@@ -1,0 +1,2 @@
+DJANGO_SECRET_KEY = 'wi)6farm7)+#w0=*htxc9l-%(ipotsj=k060+egh&q458=dtzk'
+DJANGO_DEBUG = True
