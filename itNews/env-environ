@@ -1,9 +1,9 @@
-DJANGO_SECRET_KEY = 'wi)6farm7)+#w0=*htxc9l-%(ipotsj=k060+egh&q458=dtzk'
-DJANGO_DEBUG = True
+DJANGO_SECRET_KEY = 'wi)6farm7)+#w1=*htxc9l-%(ipotsj=k061+egh&q458=dtzk'
+DJANGO_DEBUG = False
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
-EMAIL_HOST_USER = 'gdudar999@gmail.com'
-EMAIL_HOST_PASSWORD = 'example'
+EMAIL_HOST_USER = your_host_user
+EMAIL_HOST_PASSWORD = your_host_password
