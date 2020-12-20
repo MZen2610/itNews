@@ -38,6 +38,7 @@ DJANGO_DEBUG=False
 python3 manage.py runserver
 ```
 Перейдите по адресу http://127.0.0.1:8000/
+
 Опубликованный на сервере проект можно так же увидеть по адресу https://django-itnews.herokuapp.com/
 
 Сайт был создан по урокам https://itproger.com/
